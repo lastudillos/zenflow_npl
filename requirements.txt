@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+torch
+torchvision
+torchaudio
+spacy
+transformers
+sklearn
+pandas
+requests
